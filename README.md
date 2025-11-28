@@ -27,5 +27,6 @@ Interactive Power BI dashboard analyzing customer shopping behavior, sales perfo
 
 ## 🛠️ Tools
 - Power BI  
-- DAX  
+- DAX
+- Power Query  
 - CSV Data Source
